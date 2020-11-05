@@ -1,2 +1,4 @@
 # Dice-Game
-Refresh the html file and it will tell you which player wins.
+
+Refresh the page and it will tell you which player wins.
+https://najeeb-ullah.github.io/Dice-Game/
